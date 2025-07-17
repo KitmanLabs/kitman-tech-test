@@ -1,0 +1,242 @@
+[
+    {
+        "first_name": "John",
+        "last_name": "Doe",
+        "id": 1,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "jdoe1",
+        "squad_ids": [101, 102]
+    },
+    {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "id": 2,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "jsmith2",
+        "squad_ids": [103]
+    },
+    {
+        "first_name": "Mike",
+        "last_name": "Brown",
+        "id": 3,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "mbrown3",
+        "squad_ids": [101, 104]
+    },
+    {
+        "first_name": "Emily",
+        "last_name": "White",
+        "id": 4,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "ewhite4",
+        "squad_ids": [102]
+    },
+    {
+        "first_name": "Chris",
+        "last_name": "Johnson",
+        "id": 5,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "cjohnson5",
+        "squad_ids": [104]
+    },
+    {
+        "first_name": "Sara",
+        "last_name": "Lee",
+        "id": 6,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "slee6",
+        "squad_ids": [101, 103]
+    },
+    {
+        "first_name": "David",
+        "last_name": "Nguyen",
+        "id": 7,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "dnguyen7",
+        "squad_ids": [101]
+    },
+    {
+        "first_name": "Amy",
+        "last_name": "Hall",
+        "id": 8,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "ahall8",
+        "squad_ids": [103, 104]
+    },
+    {
+        "first_name": "Robert",
+        "last_name": "Green",
+        "id": 9,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "rgreen9",
+        "squad_ids": [102]
+    },
+    {
+        "first_name": "Linda",
+        "last_name": "Scott",
+        "id": 10,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "lscott10",
+        "squad_ids": [104]
+    },
+    {
+        "first_name": "Tom",
+        "last_name": "Clark",
+        "id": 11,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "tclark11",
+        "squad_ids": [101]
+    },
+    {
+        "first_name": "Megan",
+        "last_name": "Lewis",
+        "id": 12,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "mlewis12",
+        "squad_ids": [102]
+    },
+    {
+        "first_name": "Brian",
+        "last_name": "Young",
+        "id": 13,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "byoung13",
+        "squad_ids": [103]
+    },
+    {
+        "first_name": "Olivia",
+        "last_name": "Turner",
+        "id": 14,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "oturner14",
+        "squad_ids": [101, 102]
+    },
+    {
+        "first_name": "Jason",
+        "last_name": "King",
+        "id": 15,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "jking15",
+        "squad_ids": [104]
+    },
+    {
+        "first_name": "Natalie",
+        "last_name": "Wright",
+        "id": 16,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "nwright16",
+        "squad_ids": [102]
+    },
+    {
+        "first_name": "Ethan",
+        "last_name": "Lopez",
+        "id": 17,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "elopez17",
+        "squad_ids": [101, 103]
+    },
+    {
+        "first_name": "Grace",
+        "last_name": "Hernandez",
+        "id": 18,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "ghernandez18",
+        "squad_ids": [104]
+    },
+    {
+        "first_name": "Daniel",
+        "last_name": "Hill",
+        "id": 19,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "dhill19",
+        "squad_ids": [103]
+    },
+    {
+        "first_name": "Chloe",
+        "last_name": "Adams",
+        "id": 20,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "cadams20",
+        "squad_ids": [101, 104]
+    },
+    {
+        "first_name": "Luke",
+        "last_name": "Baker",
+        "id": 21,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "lbaker21",
+        "squad_ids": [102]
+    },
+    {
+        "first_name": "Zoe",
+        "last_name": "Mitchell",
+        "id": 22,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "zmitchell22",
+        "squad_ids": [103, 104]
+    },
+    {
+        "first_name": "Eric",
+        "last_name": "Carter",
+        "id": 23,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "ecarter23",
+        "squad_ids": [101]
+    },
+    {
+        "first_name": "Anna",
+        "last_name": "Perez",
+        "id": 24,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "aperez24",
+        "squad_ids": [102, 104]
+    },
+    {
+        "first_name": "Ryan",
+        "last_name": "Stewart",
+        "id": 25,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "rstewart25",
+        "squad_ids": [103]
+    },
+    {
+        "first_name": "Ella",
+        "last_name": "Morris",
+        "id": 26,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "emorris26",
+        "squad_ids": [101]
+    },
+    {
+        "first_name": "Henry",
+        "last_name": "Rogers",
+        "id": 27,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "hrogers27",
+        "squad_ids": [103, 104]
+    },
+    {
+        "first_name": "Lily",
+        "last_name": "Cook",
+        "id": 28,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "lcook28",
+        "squad_ids": [102]
+    },
+    {
+        "first_name": "Jack",
+        "last_name": "Morgan",
+        "id": 29,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "jmorgan29",
+        "squad_ids": [104]
+    },
+    {
+        "first_name": "Sophie",
+        "last_name": "Reed",
+        "id": 30,
+        "image": {"url": "https://kitman.imgix.net/avatar.jpg"},
+        "username": "sreed30",
+        "squad_ids": [101, 102]
+    }
+]
